@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KodiRemote</string>
+    <string name="wrong_ip_message">IP value which you have provided is wrong. Exemplary pattern is 192.168.1.1. Values of each field must be between range 0-255.</string>
+    <string name="dialog_title">You have provided wrong IP address</string>
+    <string name="ok">OK</string>
+    <string name="enable_wifi">WI-FI must me enabled. Do you want to enable it?</string>
+    <string name="enable_wifi_title">Enable Wi-Fi</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable">Enable Wi-Fi</string>
+</resources>
